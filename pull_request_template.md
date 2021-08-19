@@ -1,3 +1,4 @@
+<!--- Original reference: https://github.com/stevemao/github-issue-templates/blob/master/checklist2/PULL_REQUEST_TEMPLATE.md -->
 # Contribution Checklist
 Thanks for contributing! Use the following checklist to aid the code review process.
 
